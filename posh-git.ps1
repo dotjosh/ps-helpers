@@ -1,0 +1,1 @@
+. C:\Stuff\Dropbox\Settings\Powershell\lib\posh-git\profile.example.ps1
